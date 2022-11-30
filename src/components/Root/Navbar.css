@@ -1,0 +1,33 @@
+nav .navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #3C4669;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    top: 0;
+    width: 100%;
+    }
+  
+li .navBarStyle {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px
+    }
+
+nav .navBarStyle input {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        text-decoration: none;
+        font-size: 20px
+        }
+
+li a:hover:not(#temp) {
+    background-color: #566CB3;
+    }

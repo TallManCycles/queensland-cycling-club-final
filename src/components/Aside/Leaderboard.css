@@ -1,0 +1,18 @@
+.leaderboard {
+    padding: 10px;
+    margin-bottom: 10px;
+    }
+
+.leaderboard table {    
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 5px;
+    }
+.leaderboard tr:nth-child(odd) {
+        background-color: white;
+    }
+.leaderboard tr:hover {
+    background-color: aliceblue;
+}

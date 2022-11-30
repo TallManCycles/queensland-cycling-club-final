@@ -1,0 +1,12 @@
+.racecalendar {    
+    width: 100%;
+    text-align: left;
+    }
+.racecalendar tr:nth-child(odd) {
+        background-color: rgb(236, 240, 243);
+    }
+
+.racecalendar td {
+        padding-top:20px;
+        padding-bottom:20px;  
+    }

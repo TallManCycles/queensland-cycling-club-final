@@ -1,0 +1,17 @@
+header {
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+header img {
+    width: 100%;
+  }
+
+header .centered{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  font-size: 1.5em;
+  }

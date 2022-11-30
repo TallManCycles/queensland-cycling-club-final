@@ -1,0 +1,12 @@
+footer {
+    width: 100%;
+    text-align: center;
+    clear: left;
+    background-color: #3C4669;
+    color: white;
+    height: 50px;
+  }
+
+footer a:link, footer a:visited {
+  color: white;
+}

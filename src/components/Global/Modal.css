@@ -1,0 +1,72 @@
+.modal {
+    display: none;
+    position: fixed;
+    overflow: auto;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%; 
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; 
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; 
+  }
+  
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .contactus {
+    list-style-type: none;
+}
+
+.contactuscontainer {
+border-radius: 5px;
+background-color: #e0e2e9;
+padding: 20px;
+}
+
+.contactuscontainer ul {
+padding: 0px;
+}
+
+.contactuscontainer ul li {
+margin-bottom: 10px;
+}
+
+input[type="text"],input[type="email"], textarea {
+width: 100%;
+padding: 10px;
+border: 1px solid black;
+box-sizing: border-box;
+resize: vertical;
+}
+
+button {
+background-color: #3C4669;
+color: white;
+padding: 12px 20px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+width: 100%;
+}
+
+input[type=submit]:hover {
+background-color: #45a049;
+}

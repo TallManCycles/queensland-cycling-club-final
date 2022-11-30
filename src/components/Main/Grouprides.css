@@ -1,0 +1,24 @@
+.groupRides {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+.fast {
+    background: #d2ded4;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    list-style: none;
+}
+
+.slow {
+    background: #e9ebee;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    list-style: none;
+    
+}
