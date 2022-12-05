@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/queensland-cycling-club-final/static/css/main.f2c0dee8.css",
+    "main.css": "/queensland-cycling-club-final/static/css/main.3a8f4c96.css",
     "main.js": "/queensland-cycling-club-final/static/js/main.cbb81b6f.js",
     "static/js/787.39935d52.chunk.js": "/queensland-cycling-club-final/static/js/787.39935d52.chunk.js",
     "static/media/banner.gif": "/queensland-cycling-club-final/static/media/banner.7a7f2a3e434669068562.gif",
@@ -10,12 +10,12 @@
     "static/media/longevent.jpg": "/queensland-cycling-club-final/static/media/longevent.e68406b3c45f42b7d95f.jpg",
     "static/media/logo_transparent.png": "/queensland-cycling-club-final/static/media/logo_transparent.a098f32e9556760aadc0.png",
     "index.html": "/queensland-cycling-club-final/index.html",
-    "main.f2c0dee8.css.map": "/queensland-cycling-club-final/static/css/main.f2c0dee8.css.map",
+    "main.3a8f4c96.css.map": "/queensland-cycling-club-final/static/css/main.3a8f4c96.css.map",
     "main.cbb81b6f.js.map": "/queensland-cycling-club-final/static/js/main.cbb81b6f.js.map",
     "787.39935d52.chunk.js.map": "/queensland-cycling-club-final/static/js/787.39935d52.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2c0dee8.css",
+    "static/css/main.3a8f4c96.css",
     "static/js/main.cbb81b6f.js"
   ]
 }
