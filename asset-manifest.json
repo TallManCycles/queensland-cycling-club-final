@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/queensland-cycling-club-final/static/css/main.f2c0dee8.css",
+    "main.js": "/queensland-cycling-club-final/static/js/main.cbb81b6f.js",
+    "static/js/787.39935d52.chunk.js": "/queensland-cycling-club-final/static/js/787.39935d52.chunk.js",
+    "static/media/banner.gif": "/queensland-cycling-club-final/static/media/banner.7a7f2a3e434669068562.gif",
+    "static/media/crosscountry.jpg": "/queensland-cycling-club-final/static/media/crosscountry.f1d257ad4d52e1007078.jpg",
+    "static/media/roadrace.jpg": "/queensland-cycling-club-final/static/media/roadrace.1ab3969beca74f8786ad.jpg",
+    "static/media/moutainbike.jpg": "/queensland-cycling-club-final/static/media/moutainbike.edc05ee1515829106ab7.jpg",
+    "static/media/longevent.jpg": "/queensland-cycling-club-final/static/media/longevent.e68406b3c45f42b7d95f.jpg",
+    "static/media/logo_transparent.png": "/queensland-cycling-club-final/static/media/logo_transparent.a098f32e9556760aadc0.png",
+    "index.html": "/queensland-cycling-club-final/index.html",
+    "main.f2c0dee8.css.map": "/queensland-cycling-club-final/static/css/main.f2c0dee8.css.map",
+    "main.cbb81b6f.js.map": "/queensland-cycling-club-final/static/js/main.cbb81b6f.js.map",
+    "787.39935d52.chunk.js.map": "/queensland-cycling-club-final/static/js/787.39935d52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2c0dee8.css",
+    "static/js/main.cbb81b6f.js"
+  ]
+}
