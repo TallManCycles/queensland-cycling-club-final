@@ -1,6 +1,12 @@
 import React, { Component } from 'react'
 import Figure from './Figure'
 
+//Import images from img file to work around react component
+import crossCountryImage from "../../img/crosscountry.jpg"
+import longEventImage from "../../img/longevent.jpg"
+import mountainBikeImage from "../../img/moutainbike.jpg"
+import roadRaceImage from "../../img/roadrace.jpg"
+
 //Styles
 import './Gallery.css'
 
@@ -22,25 +28,25 @@ export default class Gallery extends Component {
     const images = [
         {   
             id: 1,
-            src: "/img/crosscountry.jpg", 
+            src: crossCountryImage, 
             alt: "man riding a cross country bike up a hill", 
             caption: "Cross Country Regional Finals"},
 
         {
             id: 2,
-            src: "/img/longevent.jpg", 
+            src: longEventImage, 
             alt: "two cyclists under trees on a road", 
             caption: "Open Road Classic"},
 
         {
             id: 3,
-            src: "/img/moutain bike.jpg", 
+            src: mountainBikeImage, 
             alt: "mountain bike in the bushland", 
             caption: "Open Mountain Bike Finals"},
 
         {
             id: 4,
-            src: "/img/roadrace.jpg", 
+            src: roadRaceImage, 
             alt: "cyclists handlebars at the start of a race", 
             caption: "Mens Open Crit Race"}
     ]
