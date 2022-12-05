@@ -39,3 +39,28 @@ margin: auto;
 padding: 2px;
 font-family: Arial, Helvetica, sans-serif;
 }
+
+@media screen and (max-width: 768px) {
+  .flexContent {
+      display: inline;
+  }
+  aside, main {
+      width: 98%;
+  }
+  header .centered{        
+      font-size: 0.7em;
+  }
+  .aboutimage {
+      display: block;
+      width: 25%;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  .photoGallery {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      justify-content: center;
+  }
+}
+
