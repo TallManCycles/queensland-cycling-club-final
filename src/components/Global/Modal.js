@@ -12,6 +12,9 @@ export default function Modal({title}) {
     }
 
     function closeModal () {
+        
+        //future implementation - prevent close if modal elements are blank or post call fails.
+        
         let modal = document.getElementById("myModal");
         modal.style.display = "none";
         clearData();

@@ -32,7 +32,7 @@ test("Alt image text exists", () => {
 
 test("Weather information viewable", () => {
   render(<Weather />);
-  const minimumTemp = screen.getByAltText(/Min Temp (C°)/i);
+  const minimumTemp = screen.getByText(/Weather Forecast/i);
   expect(minimumTemp).toBeInTheDocument();
 });
 
